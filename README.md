@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [MelhorPlano](http://melhorplano.net/) as a Software Engineering.
+- 🔭 I’m currently working on [MelhorPlano](http://melhorplano.net/) as a Mid-Level Software Engineering.
+- 🌱 I started programming in 2014 in college. In 2020 I started working professionally, especially with web development. I also like development for embedded, desktop, and other areas that pique my interest.
 
 <div align="center">
   <a href="https://github.com/PauloIVM">
