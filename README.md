@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [MelhorPlano](http://melhorplano.net/) as a Mid-Level Software Engineering.
+- 🔭 I’m currently working on [MelhorPlano](http://melhorplano.net/) as a Mid-Level Software Engineer.
 - 🌱 I started programming in 2014 in college.
 - 😄 In 2020 I graduated in Mechatronics Engineering at CEFET-MG. Also in this year I started to work professionally with web development.
 - 🌱 In 2023 I started a second graduation, in Computer Science.
