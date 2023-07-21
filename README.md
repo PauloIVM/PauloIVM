@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [MelhorPlano](http://melhorplano.net/) as a Mid-Level Software Engineering.
 - 🌱 I started programming in 2014 in college.
-- 🌱 In 2020 I graduated in Mechatronics Engineering at CEFET-MG. Also in this year I started to work professionally with web development.
+- 😄 In 2020 I graduated in Mechatronics Engineering at CEFET-MG. Also in this year I started to work professionally with web development.
 - 🌱 In 2023 I started a second graduation, in Computer Science.
-- 🔭 In addition to web development with the JS stack, I am interested in Java development; and also under development with microcontroller devices with C and C++.
+- 💬 In addition to web development with the JS stack, I am interested in Java development; and also under development with microcontroller devices with C and C++.
 
 <div align="center">
   <a href="https://github.com/PauloIVM">
