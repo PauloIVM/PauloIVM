@@ -8,7 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/PauloIVM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloIVM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PauloIVM&theme=dark&hide_border=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloIVM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloIVM&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
