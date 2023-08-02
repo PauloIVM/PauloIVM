@@ -12,7 +12,8 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloIVM&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloIVM&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br/>
+    
 ![](https://komarev.com/ghpvc/?username=PauloIVM)
 
 <a href = "mailto:paulo.vieira.marinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
